@@ -1,24 +1,6 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+ActiveRecord::Base
+custom database work on models/associations
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+skip to the models: https://github.com/the-one-daniel-wilder/active_record_base_associations/tree/master/app/models
